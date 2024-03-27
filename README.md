@@ -26,6 +26,9 @@ I'm KITO, React & React Native developer from <img src="https://cdn-icons-png.fl
   <img alt="Mixpanel" src="https://img.shields.io/badge/-Mixpanel-FFFFFF?style=flat-square&logo=Mixpanel&logoColor=8000FF" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-FFFFFF?style=flat-square&logo=Cypress&logoColor=blue" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF69B4?style=flat-square&logo=Storybook&logoColor=white" />
+  <img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-E80074?style=flat-square&logo=Appwrite&logoColor=white" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind-69B4FF?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Threejs" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
 </p>
 
 ### GitHub Status
