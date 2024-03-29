@@ -29,6 +29,7 @@ I'm KITO, React & React Native developer from <img src="https://cdn-icons-png.fl
   <img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-E80074?style=flat-square&logo=Appwrite&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind-69B4FF?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Threejs" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
 </p>
 
 ### GitHub Status
