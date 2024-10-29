@@ -5,21 +5,13 @@
 <br>
 <div>
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/luffy.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/zoro.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/nami.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/usopp.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/sanji.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/chopper.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/robin.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/franky.gif" height="40" />
-&nbsp;
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/brook.gif" height="40" />
 </div>
 <pre>
