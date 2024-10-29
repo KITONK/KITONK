@@ -24,6 +24,6 @@
 </pre>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitonk&hide=astro,html,css,julia,scss,mdx,cmake,starlark,c,c%2B%2B,makefile,shell,emacs%20lisp,ruby,roff,prolog,vim%2B%2B,hcl,batchfile,gsl,meson,coffeescript,dart,glsl,jupyter%20notebook&layout=compact&langs_count=8&title_color=F2E1C3&bg_color=262C36&hide_border=true&text_color=B6A993FF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitonk&hide=astro,html,css,julia,scss,mdx,cmake,starlark,c,c%2B%2B,makefile,shell,emacs%20lisp,ruby,roff,prolog,vim%2B%2B,hcl,batchfile,gsl,meson,coffeescript,dart,glsl,jupyter%20notebook&layout=compact&langs_count=8&title_color=F2E1C3&bg_color=262C36&hide_border=true&text_color=B6A993FF&card_width=739)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
