@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/brook.gif" height="40" />
 </div>
 <pre>
-      💼 ByteHive • Front-end dev  
+      💼 bytehive • Front-end dev  
       💻 Frontend Development • JavaScript & TypeScript  
       📖 React, Next.js • Web Performance Optimization  
       🎨 Responsive Design • Animations & Interactivity  
